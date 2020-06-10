@@ -11,6 +11,10 @@ The removal of any publicly-visible memorial, monument, statue, or other notewor
 
 ## How do I contribute?
 
+### What do I contribute?
+
+Contributions of all sorts are needed: edits, new content, or even just comments noting when/where something happened. Please see the next two items for more details.
+
 ### I am not confident with Github and writing markdown
 
 At the top of this page, click "Issues". There, click the button that says "New Issue".
