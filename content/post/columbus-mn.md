@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/columbus_mn.jpeg"
-date = "2020-06-11T12:05:00+02:00"
+date = "2020-06-11T00:05:00+02:00"
 title = "Christopher Columbus—St. Paul, MN"
 photo_credits = "Max Nesternak"
 photo_source_url = "https://twitter.com/maxnesterak/status/1270839474445049857"
