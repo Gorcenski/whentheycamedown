@@ -11,6 +11,8 @@ The removal of any publicly-visible memorial, monument, statue, or other notewor
 
 ## How do I contribute?
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
 ### What do I contribute?
 
 Contributions of all sorts are needed: edits, new content, or even just comments noting when/where something happened. Please see the next two items for more details.
