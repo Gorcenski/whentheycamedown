@@ -1,4 +1,15 @@
-+++ showonlyimage = true draft = false image = "img/dun.jpg" date = "1922-05-25T18:00:00-00:00" title = "Lord Dunkellin, Galway, Ireland" photo_credits = "Jonathan Margetts" photo_source_url = "https://www.advertiser.ie/Galway/article/32477/lord-dunkellins-statue" categories = [ "colonizers" ] tags = ["direct-action"] weight = 1 +++
++++
+showonlyimage = true
+draft = false
+image = "img/dun.jpg"
+date = "1922-05-25T18:00:00-00:00"
+title = "Lord Dunkellin—Galway, Ireland"
+photo_credits = "Jonathan Margetts"
+photo_source_url = "https://www.advertiser.ie/Galway/article/32477/lord-dunkellins-statue"
+categories = [ "colonizers" ]
+tags = ["direct-action"]
+weight = 1
++++
 
 Lord Dunkellin was toppled in Galway, Ireland and thrown into the sea.
 
