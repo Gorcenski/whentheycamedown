@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/sean.jpg"
+image = "img/russell_dublin.jpg"
 date = "2004-12-31T23:59:59-00:00"
 title = "Seán Russell—Dublin, Ireland"
 photo_credits = "Davide Malone"
