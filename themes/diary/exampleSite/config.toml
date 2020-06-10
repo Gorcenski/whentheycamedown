@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "A Hugo Site"
+copyright = "This is a customized copyright."
+theme = "diary"
+# googleAnalytics = "UA-123-45"
+
+[params]
+subtitle = "Themed by Diary."
+enableGitalk = true
+
+[params.gitalk]
+  owner = "user"
+  repo = "repo name"
+  client_id = "your client id"
+  client_secret = "your client secret"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 2
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 3
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 1
+[[menu.main]]
+url = "/index.xml"
+name = "RSS Feed"
+weight = 4

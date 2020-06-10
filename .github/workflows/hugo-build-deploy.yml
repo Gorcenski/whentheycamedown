@@ -1,0 +1,18 @@
+on: [push]
+name: Publish Site
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+    - uses: gorcenski/upload-lfs-to-firebase-storage@master
+      with:
+        gcloud-token: ${{ secrets.wtcd_gcloud_token }}
+        bucket_url: ${{ secrets.gcloud_firebase_bucket }}
+    - uses: gorcenski/github-action-hugo-deploy-to-firebase@master
+      with:
+        firebase-token: ${{ secrets.wtcd_firebase_deploy }}
+        alias: wtcd
+        site-dir: website

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mod3</title>
+    <link>https://mod3.show/posts/</link>
+    <description>Recent content in Posts on mod3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 18:40:17 -0400</lastBuildDate>
+    
+	<atom:link href="https://mod3.show/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to mod3</title>
+      <link>https://mod3.show/posts/welcome-to-mod3/</link>
+      <pubDate>Tue, 28 Apr 2020 18:40:17 -0400</pubDate>
+      
+      <guid>https://mod3.show/posts/welcome-to-mod3/</guid>
+      <description>This is a hello World post!
+mod3 is a new podcast and blog by Kate and Emily. Here we will rant about mathematics, data, technology, and how the affect our modern world.
+$$\frac{1}{\sqrt{2\sigma^2\pi}} \int_{\mathbb{R}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} dx$$
+  </description>
+    </item>
+    
+  </channel>
+</rss>

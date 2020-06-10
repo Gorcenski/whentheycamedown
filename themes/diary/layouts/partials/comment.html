@@ -1,0 +1,27 @@
+{{ if .Site.Params.disqusShortname }}
+<div class="post-comment-wrapper">
+{{ template "_internal/disqus.html" . }}
+</div>
+{{ end }}
+
+{{ if .Site.Params.enableGitalk }}
+<div id="gitalk-container"></div>
+{{ end }}
+
+{{ if .Site.Params.enableValine }}
+<div id="vcomments"></div>
+<script>
+    $(new Valine({
+        el: '#vcomments',
+        appId: '{{ .Site.Params.Valine.appId }}',
+        appKey: '{{ .Site.Params.Valine.appKey }}',
+        recordIP: true
+    }))
+</script>
+{{ end }}
+
+{{ if .Site.Params.livereId }}
+<div id="lv-container" data-id="city" data-uid={{.Site.Params.livereId}}>
+    <noscript>Please activate JavaScript to use Livere Comment.</noscript>
+</div>
+{{ end }}

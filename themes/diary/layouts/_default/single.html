@@ -1,0 +1,89 @@
+{{ define "main" }}
+<div ref="streamContainer" class="stream-container">
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            {{ $post_class := "post-head-wrapper-text-only"}}
+            {{ $featured_image := .Params.featured_image }}
+            {{ if $featured_image }}
+                {{ $post_class = "post-head-wrapper"}}
+            {{ end }}
+
+            <div class="{{$post_class}}"
+                 style="background-image: url('{{ $featured_image | absURL}}')">
+                <div class="post-title">
+                    {{ .Title }}
+                    {{ if .Params.description }}
+                    <div class="post-subtitle">
+                        {{ .Params.description }}
+                    </div>
+                    {{ end }}
+                    <div class="post-meta">
+                        {{ if .Params.date}}
+                        <time itemprop="datePublished">
+                            {{ .PublishDate.Format "2006-01-02 15:04" }}
+                        </time>
+                        {{ end }}
+
+                        {{ if .Params.categories }}
+                            <i class="material-icons" style="">folder</i>
+                                <a href="{{ "/categories/" | relLangURL }}{{ .Params.categories | urlize }}">{{ .Params.categories }}</a>
+                                &nbsp;
+                        {{ end }}
+
+                        {{ if gt .Params.tags 0 }}
+                            <i class="material-icons" style="">label</i>
+                            {{ range .Params.tags }}
+                                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                                &nbsp;
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                <div class="post-body">
+                    {{.Content}}
+                    {{ if not .Lastmod.IsZero }}
+                    <HR width="100%" id="EOF">
+                    <p style="color:#777;">Last modified on {{ .Page.Lastmod.Format "2006-01-02" }}</p>
+                    {{ end }}
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                {{if .Next}}
+                <a class="newer-posts" href="{{.Next.Permalink}}">
+                    Next<br>{{.Next.Title}}
+                </a>
+                {{else}}
+                <a class="newer-posts">
+                    Next<br>No newer posts.
+                </a>
+                {{end}}
+                
+                {{if .Prev}}
+                <a class="older-posts" href="{{.Prev.Permalink}}">
+                    Previous<br>{{.Prev.Title}}
+                </a>
+                {{else}}
+                <a class="older-posts">
+                    Previous<br>No older posts.
+                </a>
+                {{end}}
+            </nav>
+            <div class="post-comment-wrapper">
+                {{ if eq .Params.comment false }}
+                <p style="opacity: 0.6" align="center">
+                    <small>Comments Disabled.</small>
+                </p>
+                {{ else }}
+                {{- partial "comment.html" . -}}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

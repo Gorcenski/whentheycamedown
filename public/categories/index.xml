@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on whentheycamedown</title>
+    <link>https://whentheycamedown.com/categories/</link>
+    <description>Recent content in Categories on whentheycamedown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://whentheycamedown.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>design</title>
+      <link>https://whentheycamedown.com/categories/design/</link>
+      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      
+      <guid>https://whentheycamedown.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
