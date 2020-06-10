@@ -11,6 +11,14 @@ The removal of any publicly-visible memorial, monument, statue, or other notewor
 
 ## How do I contribute?
 
+### I am not confident with Github and writing markdown
+
+At the top of this page, click "Issues". There, click the button that says "New Issue".
+
+In the textbox that appears, go ahead and enter your content, paste any links, whatever. I'll convert it into the required format to publish.
+
+### I am confident with Github and writing markdown
+
 Add a markdown post under `content/post`. Use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
 
 Images go in `static/img`.
