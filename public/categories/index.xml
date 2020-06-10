@@ -6,17 +6,35 @@
     <description>Recent content in Categories on whentheycamedown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2017 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 03:29:00 -0500</lastBuildDate>
     
 	<atom:link href="https://whentheycamedown.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>design</title>
-      <link>https://whentheycamedown.com/categories/design/</link>
-      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      <title>colonizers</title>
+      <link>https://whentheycamedown.com/categories/colonizers/</link>
+      <pubDate>Wed, 10 Jun 2020 03:29:00 -0500</pubDate>
       
-      <guid>https://whentheycamedown.com/categories/design/</guid>
+      <guid>https://whentheycamedown.com/categories/colonizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slavers</title>
+      <link>https://whentheycamedown.com/categories/slavers/</link>
+      <pubDate>Sun, 07 Jun 2020 17:16:00 +0000</pubDate>
+      
+      <guid>https://whentheycamedown.com/categories/slavers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>confederates</title>
+      <link>https://whentheycamedown.com/categories/confederates/</link>
+      <pubDate>Sun, 07 Jun 2020 09:34:00 -0500</pubDate>
+      
+      <guid>https://whentheycamedown.com/categories/confederates/</guid>
       <description></description>
     </item>
     

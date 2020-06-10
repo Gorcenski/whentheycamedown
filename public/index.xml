@@ -6,19 +6,36 @@
     <description>Recent content on whentheycamedown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2017 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 03:29:00 -0500</lastBuildDate>
     
 	<atom:link href="https://whentheycamedown.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Name of the work 1</title>
-      <link>https://whentheycamedown.com/post/welcome-to-mod3/</link>
-      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      <title>Christopher Columbus—Richmond, VA</title>
+      <link>https://whentheycamedown.com/post/columbus-rva/</link>
+      <pubDate>Wed, 10 Jun 2020 03:29:00 -0500</pubDate>
       
-      <guid>https://whentheycamedown.com/post/welcome-to-mod3/</guid>
-      <description>This is a hello World post!
-mod3 is a new podcast and blog by Kate and Emily. Here we will rant about mathematics, data, technology, and how the affect our modern world.</description>
+      <guid>https://whentheycamedown.com/post/columbus-rva/</guid>
+      <description>&lt;p&gt;Christopher Columbus was toppled in Richmond, Virginia.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Edward Colston—Bristol, England</title>
+      <link>https://whentheycamedown.com/post/colston-bristol/</link>
+      <pubDate>Sun, 07 Jun 2020 17:16:00 +0000</pubDate>
+      
+      <guid>https://whentheycamedown.com/post/colston-bristol/</guid>
+      <description>&lt;p&gt;Edward Colston was toppled in Bristol, England, and escorted to the bottom of the river Avon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Williams Wickham—Richmond, VA</title>
+      <link>https://whentheycamedown.com/post/wickham-rva/</link>
+      <pubDate>Sun, 07 Jun 2020 09:34:00 -0500</pubDate>
+      
+      <guid>https://whentheycamedown.com/post/wickham-rva/</guid>
+      <description>&lt;p&gt;Williams Carter Wickham was toppled in Richmond, Virginia.&lt;/p&gt;</description>
     </item>
     
   </channel>
