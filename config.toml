@@ -7,10 +7,10 @@ theme = "hugo-nederburg-theme"
    tag = "tags"
    category = "categories"
 
-# [[menu.main]]
-# url = "/categories"
-# name = "Categories"
-# weight = 3
+[[menu.main]]
+url = "https://github.com/Gorcenski/whentheycamedown/blob/master/README.md"
+name = "Contribute"
+weight = 1
 # [[menu.main]]
 # url = "/tags"
 # name = "Tags"
