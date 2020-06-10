@@ -10,5 +10,5 @@ jobs:
     - uses: gorcenski/github-action-hugo-deploy-to-firebase@master
       with:
         firebase-token: ${{ secrets.wtcd_firebase_deploy }}
-        alias: wtcd
+        alias: whentheycamedown
         site-dir: website
