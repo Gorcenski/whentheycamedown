@@ -8,7 +8,7 @@ theme = "hugo-nederburg-theme"
    category = "categories"
 
 [[menu.main]]
-url = "https://github.com/Gorcenski/whentheycamedown/blob/master/README.md"
+url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribute"
 weight = 1
 # [[menu.main]]
