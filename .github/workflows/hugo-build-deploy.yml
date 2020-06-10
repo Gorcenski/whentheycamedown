@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@v1
       with:
         submodules: true
-    - uses: gorcenski/github-action-hugo-deploy-to-firebase@master
+    - uses: gorcenski/github-action-hugo-deploy-to-firebase@trunk
       with:
         firebase-token: ${{ secrets.wtcd_firebase_deploy }}
         alias: whentheycamedown
