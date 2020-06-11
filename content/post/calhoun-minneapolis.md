@@ -11,3 +11,6 @@ tags = []
 weight = 1
 +++
 
+Bde Maka Ska ("White Earth Lake") was restored to its original Dakota name after a multi-year legal battle. It had been named for John C. Calhoun, a slaveowner and vocal advocate of slavery.
+
+<!--more-->
