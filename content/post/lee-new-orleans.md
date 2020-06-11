@@ -15,8 +15,17 @@ A monument to Confederate General Robert E. Lee was removed by city action in ea
 
 <!--more-->
 
-In 2014, noted Jazz musician Wynton Marsalis [convinced](https://www.nola.com/news/politics/article_9971d9c6-6a68-51da-9343-67c7d0ab9b3b.html) New Orleans mayor Mitch Landrieu to consider removing the Robert E. Lee statue. In December 2015, this led to [a city council vote](https://www.nola.com/news/politics/article_abfc7015-39f1-5b43-90f7-819af1623a38.html) to remove the statue and three other Confederate statues.
+In 2014, noted Jazz musician Wynton Marsalis convinced[^1] New Orleans mayor Mitch Landrieu to consider removing the Robert E. Lee statue. In December 2015, this led to a city council vote[^2] to remove the statue and three other Confederate statues.
 
-After legal battles, attempted blocking legislation, public comment, and even a public opposition from Governor Bobby Jindal, [the statues were finally removed](https://www.nola.com/news/article_ea7f25d7-ddab-58b4-b168-38965e9129e6.html) in May 2017.
+After legal battles, attempted blocking legislation, public comment, and even a public opposition from Governor Bobby Jindal, the statues were finally removed[^3] in May 2017.
 
 {{< youtube gCWW-3lQURA >}}
+<br>
+
+#### References
+
+[^1]: [Mitch Landrieu on Confederate landmarks: 'That's what museums are for'](https://www.nola.com/news/politics/article_9971d9c6-6a68-51da-9343-67c7d0ab9b3b.html)
+
+[^2]: [Lee Circle no more: New Orleans to remove 4 Confederate statues](https://www.nola.com/news/politics/article_abfc7015-39f1-5b43-90f7-819af1623a38.html)
+
+[^3]: [New Orleans completes removal of Confederate monuments with take down of Robert E. Lee statue](https://www.nola.com/news/article_ea7f25d7-ddab-58b4-b168-38965e9129e6.html)
