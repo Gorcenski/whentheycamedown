@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/columbus_boston.jpeg"
+image = "img/columbus_boston.jpg"
 date = "2020-06-11T12:13:00+01:00"
 title = "Christopher Columbus—Boston, MA"
 photo_credits = "Kerri Colorado"
