@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/reb_norfolk.jpg"
+image = "img/reb_norfolk.jpeg"
 date = "2020-06-12T12:44:00+01:00"
 title = "Johnny Reb—Norfolk, VA"
 photo_credits = "@getsthegoods"
