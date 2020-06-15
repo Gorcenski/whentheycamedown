@@ -15,7 +15,7 @@ Thomas Jefferson was unseated at Jefferson High School in Portland, Oregon.
 
 <!--more-->
 
-After a protest against police of about 1,000 people that rallied at Jefferson High School in Portland, the seated statue of Thomas Jefferson was upended and the base vandalized.[^1] The school was the rallying point of the march, which proceeded to a nearby park. The statue was upended sometime before the protesters returned, according to reports.[^2] It was the third statue in the area to be removed over the weekend.[^3]
+After a protest against police of about 1,000 people that rallied at Jefferson High School in Portland, the seated statue of Thomas Jefferson was upended and the base vandalized.[^1] The school was the rallying point of the march, which proceeded to a nearby park. The statue was upended sometime before the protesters returned, according to reports.[^2] It was the third statue in the state to be removed over the weekend, joining [Pioneer and Pioneer Mother](../pioneer-and-mother-eugene/) at the University of Oregon.[^3]
 
 Best known as a Founding Father who was a driving force in the formation of American democracy, Thomas Jefferson owned hundreds of slaves in his lifetime.[^4] Jefferson frequently raped one of his slaves, Sally Hemings, with whom he began sexually abusing when she was only a teenager.[^5] 
 
