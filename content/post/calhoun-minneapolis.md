@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/TODO"
+image = "img/calhoun-minneapolis.jpg"
 date = "2020-06-07T17:16:00-00:00"
 title = "John C. Calhoun—Minneapolis, Minnesota, USA"
 photo_credits = "Star Tribune"
@@ -11,7 +11,7 @@ tags = []
 weight = 1
 +++
 
-Bde Maka Ska ("White Earth Lake") was restored to its original Dakota name after a multi-year legal battle. It had been named for John C. Calhoun, a slaveowner, racist, and vocal advocate of slavery.
+Bde Maka Ska ("White Earth Lake") in Minneapolis, Minnesota was restored to its original Dakota name after a multi-year legal battle. It had been named for John C. Calhoun, a slaveowner, racist, and vocal advocate of slavery.
 
 <!--more-->
 
@@ -22,4 +22,3 @@ In 2011, the Minneapolis Park and Recreation Board considered renaming the lake,
 Restoring the name Bde Maka Ska was opposed by the group "[Save Lake Calhoun](http://www.savelakecalhoun.com)\*", who sued to prevent it.  The Minnesota court of appeals ruled in their favor, but the Minnesota supreme court [upheld the name change in May 2020](https://www.startribune.com/minnesota-dnr-can-rename-lake-calhoun-as-bde-maka-ska-high-court-rules/570435552/).  
 
 \*The primary driver of the Save Lake Calhoun campaign, Tom Austin, was [caught acting in a way that looks pretty racist](https://www.newsweek.com/minneapolis-man-loses-job-viral-video-racial-profiling-1507111) in May 2020, casting some doubt on his [claimed totally-not-racist motivations](https://www.startribune.com/why-i-funded-the-lawsuit-to-save-the-name-lake-calhoun/509291592/) in fighting so hard to keep Calhoun's name on Bde Maka Ska.
-
