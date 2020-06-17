@@ -19,7 +19,7 @@ MacDonald was Canada's first Prime Minister and served for a total of 19 years, 
 
 * Founding the residential schools to which First Nations children were forcibly removed and in which they were banned from speaking their own languages or practicing their own cultures, and subjected to widespread abuse[^1].
 * Introducing an openly discriminatory head tax on Chinese immigrants to Canada[^2].
-* The brutal suppression a Métis rebellion in the prairies, culminating in the execution of its leader Louis Riel and several indigenous warriors and the subjugation of the First Nations in what is now Western Canada[^3].
+* The brutal suppression of a Métis rebellion in the prairies, culminating in the execution of its leader Louis Riel and several indigenous warriors and the subjugation of the First Nations in what is now Western Canada[^3].
 
 In 2017, the City of Victoria began a formal process of reconciliation with the First Nations on whose land it was built[^4].  In 2018, City Council voted to remove a statue of MacDonald from in front of City Hall as part of that process, and the statue was removed on August 11[^5].
 
