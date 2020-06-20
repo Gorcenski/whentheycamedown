@@ -21,10 +21,10 @@ theme = "hugo-nederburg-theme"
 url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribute"
 weight = 1
-[[languages.en.menu.main]]
-url = "/es/"
-name = "Español"
-weight = 2
+# [[languages.en.menu.main]]
+# url = "/es/"
+# name = "Español"
+# weight = 2
 [[languages.es.menu.main]]
 url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribuir"
