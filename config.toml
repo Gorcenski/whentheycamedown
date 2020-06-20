@@ -1,5 +1,5 @@
 baseURL = "https://whentheycamedown.com"
-languageCode = "en-us"
+languageCode = "en"
 title = "whentheycamedown"
 theme = "hugo-nederburg-theme"
 
@@ -7,10 +7,32 @@ theme = "hugo-nederburg-theme"
    tag = "tags"
    category = "categories"
 
-[[menu.main]]
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 10
+  [languages.es]
+    contentDir = "content/espanol"
+    languageName = "Español"
+    weight = 20
+
+[[languages.en.menu.main]]
 url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribute"
 weight = 1
+[[languages.en.menu.main]]
+url = "/es/"
+name = "Español"
+weight = 2
+[[languages.es.menu.main]]
+url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
+name = "Contribuir"
+weight = 1
+[[languages.es.menu.main]]
+url = "/"
+name = "English"
+weight = 2
 # [[menu.main]]
 # url = "/tags"
 # name = "Tags"
