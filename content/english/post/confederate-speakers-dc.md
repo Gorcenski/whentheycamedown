@@ -6,7 +6,7 @@ photo_credits = "Graeme Jennings/Getty Images"
 photo_source_url = "https://www.politico.com/news/2020/06/18/nancy-pelosi-removes-paintings-of-confederate-leaders-328476"
 date = "2020-06-18T14:35:00-05:00"
 title = "Confederate Speakers, Washington DC, USA"
-categories = [ "confederates, "racists" ]
+categories = [ "confederates", "racists" ]
 tags = ["municipal-action"]
 weight = 1
 +++
