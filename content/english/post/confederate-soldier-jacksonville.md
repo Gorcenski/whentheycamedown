@@ -15,6 +15,12 @@ A Confederate monument in Jacksonville, Florida was removed due to city action.
 
 <!--more-->
 
-The generic confederate [statue of an infantryman](https://news.wjct.org/post/hemming-parks-confederate-statue-comes-down-mayor-says-others-will-be-removed) was removed from Hemming Park ahead of a planned protest. The statue was removed by the city.
+The generic confederate statue of an infantryman was removed from Hemming Park ahead of a planned protest.[^1] The statue was removed by the city.
 
-The mayor says that remaining Confederate memorials in the city, of which 10 remain, [will also be removed](https://www.wokv.com/news/local/jacksonville-mayor-says-other-confederate-monuments-will-removed/hBf4Q7cwHhPrW4zV4le59J/). This action came during the Uprising in 2020.
+The mayor says that remaining Confederate memorials in the city, of which 10 remain, will also be removed.[^2] This action came during the Uprising in 2020.
+
+#### References
+
+[^1]: [Hemming Park's Confederate Statue Comes Down; Mayor Says Others Will Be Removed](https://news.wjct.org/post/hemming-parks-confederate-statue-comes-down-mayor-says-others-will-be-removed)
+
+[^2]: [Jacksonville Mayor says all Confederate monuments will be removed](https://www.wokv.com/news/local/jacksonville-mayor-says-other-confederate-monuments-will-removed/hBf4Q7cwHhPrW4zV4le59J/)

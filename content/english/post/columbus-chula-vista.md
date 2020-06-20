@@ -21,6 +21,8 @@ The statue had been the target of vandalism on prior occasions, including on "Co
 
 Christopher Columbus played an instrumental role in, among other crimes, the genocide of the Taíno and Arawak people.[^5]
 
+#### References
+
 [^1]: [Chula Vista puts Christopher Columbus statue in storage citing ‘public safety concerns’](https://www.latimes.com/california/story/2020-06-12/chula-vista-christopher-columbus-statue-storage-protest)
 
 [^2]: [COLUMBUS STATUE PLACED IN STORAGE](https://www.chulavistaca.gov/Home/Components/News/News/3131/17?backlist=%2f)

@@ -15,6 +15,18 @@ Christopher Columbus was toppled in St. Paul, Minnesota.
 
 <!--more-->
 
-The statue of the [colonizer](https://www.nytimes.com/1989/11/04/opinion/l-slavery-and-colonialism-make-up-the-true-legacy-of-columbus-866089.html#:~:text=For%20many%20Americans%20and%20Europeans,destruction%20of%20people%20and%20cultures.) responsible for [Native genocide](https://en.wikipedia.org/wiki/Ta%C3%ADno#Depopulation) in St. Paul, Minnesota was [torn down](https://twitter.com/maxnesterak/status/1270839254462201867) by members of the American Indian Movement during the Uprising of 2020.
+The statue of the colonizer[^1] responsible for Native genocide[^2] in St. Paul, Minnesota was torn down[^3] by members of the American Indian Movement during the Uprising of 2020.
 
-[The statue, formerly in front of the State Capitol building, was easily upended.](https://bringmethenews.com/minnesota-news/columbus-statue-pulled-down-outside-minnesota-state-capitol) This followed [failed attempts](https://twitter.com/jessvanb/status/1270834884429467649?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1270834884429467649&ref_url=https%3A%2F%2Fbringmethenews.com%2Fminnesota-news%2Fcolumbus-statue-pulled-down-outside-minnesota-state-capitol) to remove the statue through more lawful channels, according to demonstrators.
+The statue, formerly in front of the State Capitol building, was easily upended.[^4] This followed failed attempts to remove the statue through more lawful channels, according to demonstrators.[^5]
+
+#### References
+
+[^1]: [Slavery and Colonialism Make Up the True Legacy of Columbus](https://www.nytimes.com/1989/11/04/opinion/l-slavery-and-colonialism-make-up-the-true-legacy-of-columbus-866089.html#:~:text=For%20many%20Americans%20and%20Europeans,destruction%20of%20people%20and%20cultures.)
+
+[^2]: [Wikipedia: Taíno](https://en.wikipedia.org/wiki/Ta%C3%ADno#Depopulation)
+
+[^3]: [Members of the American Indian Movement are preparing to tear down the statue of Christopher Columbus at the Minnesota State capitol](https://twitter.com/maxnesterak/status/1270839254462201867)
+
+[^4]: [Columbus statue pulled down outside Minnesota State Capitol](https://bringmethenews.com/minnesota-news/columbus-statue-pulled-down-outside-minnesota-state-capitol)
+
+[^5]: [Protesters gathering by Christopher Columbus statue by Capitol. "For us that's our Hilter. And you leave him there?" man asks State Patrol member, who says he is asking them to follow the process and gives him contacts to talk to. Protester says they already tried that route.](https://twitter.com/jessvanb/status/1270834884429467649?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1270834884429467649&ref_url=https%3A%2F%2Fbringmethenews.com%2Fminnesota-news%2Fcolumbus-statue-pulled-down-outside-minnesota-state-capitol)

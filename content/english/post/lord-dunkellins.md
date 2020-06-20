@@ -15,5 +15,8 @@ Lord Dunkellin was toppled in Galway, Ireland and thrown into the sea.
 
 <!--more-->
 
-[The statue of the landowner in County Galway was topped in 1922 by a crowd of thousands](https://www.advertiser.ie/Galway/article/32477/lord-dunkellins-statue).
+The statue of the landowner in County Galway was topped in 1922 by a crowd of thousands.
 
+#### References
+
+[^1]: [Lord Dunkellin’s statue](https://www.advertiser.ie/Galway/article/32477/lord-dunkellins-statue)
