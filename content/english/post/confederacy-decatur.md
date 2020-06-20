@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = img/confederate_decatur.jpg"
+image = "img/confederate_decatur.jpg"
 date = "2020-06-19T22:30:00-05:00"
 title = "Confederate Obelisk, Decatur, DeKalb County, Atlanta, USA"
 photo_credits = "Amanda Coyne, AJC"
