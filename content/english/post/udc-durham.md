@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/udc_durham.jpg"
 date = "2017-08-15T01:19:00+02:00"
-title = "Confederate Soldier—Durham, NC"
+title = "Confederate Soldier—Durham, NC, USA"
 photo_credits = "unknown"
 photo_source_url = "https://abcnews.go.com/US/confederate-statue-toppling-north-carolina-lead-criminal-charges/story?id=49226290"
 categories = [ "confederates" ]
