@@ -6,7 +6,7 @@ date = "2020-06-15T21:00:00+00:00"
 title = "John Sutter, Sacramento, California"
 photo_credits = "Videostream: KCBS-13"
 photo_source_url = "https://sacramento.cbslocal.com/2020/06/15/sacramento-john-sutter-statue-removed/"
-categories = [ "colonizers", "enslavers", "rapists" ]
+categories = [ "colonizers", "slavers", "rapists" ]
 tags = ["private-action"]
 weight = 1
 +++
