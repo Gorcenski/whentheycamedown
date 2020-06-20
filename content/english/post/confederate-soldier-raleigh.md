@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = false
+draft = true
 image = "img/confederate_raleigh.jpg"
 date = "2020-06-19T19:35:00-05:00"
 title = "Confederate Soldier—Raleigh, North Carolina, USA"
