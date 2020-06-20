@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/rizzo_philly.jpg"
 date = "2020-06-02T02:00:00-05:00"
-title = "Frank Rizzo—Philadelphia, PA"
+title = "Frank Rizzo—Philadelphia, PA, USA"
 photo_credits = "CBS Philly"
 photo_source_url = "https://www.youtube.com/watch?v=iip2mov1WIY"
 categories = [ "racists" ]

@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/juan_de_onate.jpg"
 date = "2020-06-15T11:00:00-06:00"
-title = "Juan de Oñate, Rio Arriba County, New Mexico"
+title = "Juan de Oñate, Rio Arriba County, New Mexico, USA"
 photo_credits = "Patricia Trujillo"
 photo_source_url = "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/a/c8/ac812384-af3e-11ea-9959-5f91e717863e/5ee7cc568232d.image.jpg?resize=1200%2C900"
 categories = [ "colonizers", "slavers" ]
