@@ -28,3 +28,11 @@ In the textbox that appears, go ahead and enter your content, paste any links, w
 Add a markdown post under `content/post`. Use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
 
 Images go in `static/img`.
+
+### How do I add a translation?
+
+All content lives under `content/{LANGUAGE}/post`. To translate an English post to another language, for example Spanish, simply copy the file to the localized folder. If the localized folder doesn't exist, then you can add it.
+
+For example, to translate the Christopher Columbus in Richmond post, copy `content/english/post/columbus-rva.md` to `content/espanol/post/columbus-rva.md` and edit the content to español.
+
+If the language is not supported, e.g. German, then create `content/deutsch/post/columbus-rva.md` and translate the post. Then, update the `config.toml` file in the root directory to add deutsch support.
