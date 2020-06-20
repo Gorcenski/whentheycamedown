@@ -6,7 +6,7 @@ date = "2020-06-19T21:00:00-07:00"
 title = "Francis Scott Key—San Francisco, CA"
 photo_credits = "Peter Chu"
 photo_source_url = "https://mobile.twitter.com/pcnotpc/status/1274207217588158464"
-categories = [ "slaver" ]
+categories = [ "slavers" ]
 tags = ["direct-action"]
 weight = 1
 +++
