@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = false
-photo_credits = false
-photo_source_url = false
+image = ""
+photo_credits = ""
+photo_source_url = ""
 date = "2020-06-18T14:35:00-05:00"
 title = "Confederate Speakers, Washington DC, USA"
 categories = [ "confederates, "racists"" ]
