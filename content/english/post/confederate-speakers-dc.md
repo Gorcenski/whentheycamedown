@@ -1,6 +1,6 @@
 +++
 showonlyimage = true
-draft = false
+draft = true
 image = "img/confederate_dc.jpg"
 photo_credits = "Graeme Jennings/Getty Images"
 photo_source_url = "https://www.politico.com/news/2020/06/18/nancy-pelosi-removes-paintings-of-confederate-leaders-328476"
