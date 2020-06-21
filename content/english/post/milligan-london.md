@@ -23,4 +23,4 @@ His statue was swiftly removed from its plinth by the landowner after calls from
 
 [^1]: [Wikipedia: Robert Milligan (merchant)](https://en.wikipedia.org/wiki/Robert_Milligan_(merchant))
 
-[^1]: [Robert Milligan: Slave trader statue removed from outside London museum](https://www.bbc.co.uk/news/uk-england-london-52977088)
+[^2]: [Robert Milligan: Slave trader statue removed from outside London museum](https://www.bbc.co.uk/news/uk-england-london-52977088)
