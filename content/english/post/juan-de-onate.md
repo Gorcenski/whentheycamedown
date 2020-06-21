@@ -17,7 +17,7 @@ A 1990s statue of 16th century Spanish colonizer Juan de Oñate was removed by R
 
 Oñate, who reached what is now New Mexico in 1598, is seen as a founding figure among some local descendants of Spanish settlers but is known to the indigenous community for enslaving indigenous and mixed-ancestry servants and for ordering the removal of the right feet of 24 captives after his soldiers' attack on Acoma Pueblo. An unknown person cut off the Oñate statue's right foot in 1998.[^1]
 
-County workers removed the O&ntilde;ate statue on the morning of June 15, 2020, a few hours before a 1 p.m. protest at the site of the statue outside the Oñate Monument Resource and Visitors Center.[^2] According to witnesses, county manager Tomas Campos said that the monument was being removed to protect it.
+County workers removed the Oñate statue on the morning of June 15, 2020, a few hours before a 1 p.m. protest at the site of the statue outside the Oñate Monument Resource and Visitors Center.[^2] According to witnesses, county manager Tomas Campos said that the monument was being removed to protect it.
 
 #### References
 
