@@ -25,7 +25,7 @@ In the textbox that appears, go ahead and enter your content, paste any links, w
 
 ### I am confident with Github and writing markdown
 
-Add a markdown post under `content/post`. Use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
+Add a markdown post under `content/post`. Copy template.md and use previous posts as an example. For post date, try to get, as near as possible, the date and time the memorial was removed. Add photo credits, and try to provide many references, where possible.
 
 Images go in `static/img`.
 
