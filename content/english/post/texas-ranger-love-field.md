@@ -20,7 +20,7 @@ The city was prompted to remove the statue after receiving an excerpt from a boo
 
 #### References
 
-[^1]: [Texas Ranger Statue Removed at Allas Love Field](https://dfw.cbslocal.com/2020/06/04/texas-ranger-statue-removed-dallas-love-field/)
+[^1]: [Texas Ranger Statue Removed at Dallas Love Field](https://dfw.cbslocal.com/2020/06/04/texas-ranger-statue-removed-dallas-love-field/)
 
 [^2]: [Texas Ranger statue at Love Field removed over concerns about the depicted lawman's racist history](https://www.dallasnews.com/arts-entertainment/visual-arts/2020/06/03/the-statue-of-the-texas-ranger-at-love-field-may-be-coming-down/)
 
