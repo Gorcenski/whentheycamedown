@@ -19,7 +19,7 @@ From at least 1839 through 2018, Bde Maka Ska bore the name "Lake Calhoun", in h
 
 In 2011, the Minneapolis Park and Recreation Board considered renaming the lake, but determined that they did not have the legal authority to do so.  In 2015, a petition was launched to change the name, culminating in name changes at the state and federal level in 2018.
 
-Restoring the name Bde Maka Ska was opposed by the group "Save Lake Calhoun\*", who sued to prevent it.[^2] The Minnesota court of appeals ruled in their favor, but the Minnesota supreme court upheld the name change in May 2020.[^3]
+Restoring the name Bde Maka Ska was opposed by the group _Save Lake Calhoun_, who sued to prevent it.[^2] The Minnesota court of appeals ruled in their favor, but the Minnesota supreme court upheld the name change in May 2020.[^3]
 
 \*The primary driver of the Save Lake Calhoun campaign, Tom Austin, was caught acting in a way that looks pretty racist in May 2020,[^4] casting some doubt on his claimed totally-not-racist motivations in fighting so hard to keep Calhoun's name on Bde Maka Ska.[^5]
 
