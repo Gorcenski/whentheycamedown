@@ -8,6 +8,7 @@ photo_credits = "Nelvin C. Cepeda/San Diego Union-Tribune"
 photo_source_url = "https://www.latimes.com/california/story/2020-06-12/chula-vista-christopher-columbus-statue-storage-protest"
 categories = [ "colonizers" ]
 tags = ["municipal-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 

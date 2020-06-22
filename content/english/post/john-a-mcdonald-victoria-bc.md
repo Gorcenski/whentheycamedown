@@ -8,6 +8,7 @@ photo_credits = "Megan Thomas/CBC"
 photo_source_url = "https://www.cbc.ca/news/canada/british-columbia/john-a-macdonald-statue-victoria-city-hall-lisa-helps-1.4782065"
 categories = ["colonizers", "war-criminals"]
 tags = ["municipal-action"]
+subjects = ["Sir John A. McDonald"]
 weight = 1
 +++
 

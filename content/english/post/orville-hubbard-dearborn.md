@@ -8,6 +8,7 @@ photo_credits = "Bill McGraw"
 photo_source_url = "https://www.freep.com/story/news/local/michigan/wayne/2020/06/05/statue-dearborn-mayor-orville-hubbard-removed/3161044001/"
 categories = ["racists"]
 tags = ["private-action"]
+subjects = ["Orville L. Hubbard"]
 weight = 1
 +++
 

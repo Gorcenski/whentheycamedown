@@ -8,6 +8,7 @@ photo_credits = "Joe Rivano Barros"
 photo_source_url = "https://mobile.twitter.com/jrivanob/status/1274194145838428160"
 categories = [ "slavers" ]
 tags = ["direct-action"]
+subjects = ["Ulysses S. Grant"]
 weight = 1
 +++
 

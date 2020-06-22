@@ -8,6 +8,7 @@ photo_credits = "WMPI-TV via AP"
 photo_source_url = "https://altoday.com/archives/34684-mobile-removes-confederate-statue-without-notice"
 categories = [ "confederates" ]
 tags = ["municipal-action"]
+subjects = ["Raphael Semmes"]
 weight = 1
 +++
 

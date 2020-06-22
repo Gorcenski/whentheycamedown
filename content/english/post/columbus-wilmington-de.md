@@ -8,6 +8,7 @@ photo_credits = "Black Lives Matter/social awakening"
 photo_source_url = "https://github.com/Gorcenski/whentheycamedown/issues/18"
 categories = ["colonizers"]
 tags = ["municipal-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 

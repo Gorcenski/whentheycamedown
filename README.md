@@ -38,4 +38,4 @@ For example, to translate the Christopher Columbus in Richmond post, copy `conte
 If the language is not supported, e.g. German, then create `content/deutsch/post/columbus-rva.md` and translate the post. Then, update the `config.toml` file in the root directory to add deutsch support.
 
 ### Categories and tags
-The categories inside each post can include one or more of the following: `["colonizers", "confederates", "racists", "rapists", "slavers", "war-criminals"]` and the following tags can include one or more of the following: `["municipal-action", "renaming", "direct-action", "private-action"]`. Other tags and categories can be added, but first raise an issue about it.
+The categories inside each post can include one or more of the following: `["colonizers", "confederates", "racists", "rapists", "slavers", "war-criminals"]` and the following tags can include one or more of the following: `["municipal-action", "renaming", "direct-action", "private-action"]`. Other tags and categories can be added, but first raise an issue about it.  You should also set the subject as the name of the person who is depicted by the statue.

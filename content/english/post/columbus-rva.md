@@ -8,6 +8,7 @@ photo_credits = "MarleyNichelle"
 photo_source_url = "https://twitter.com/MarleyNichelle/status/1270528576656273408"
 categories = [ "colonizers" ]
 tags = ["direct-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 

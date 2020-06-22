@@ -8,6 +8,7 @@ photo_credits = "Jonathan Margetts"
 photo_source_url = "https://www.advertiser.ie/Galway/article/32477/lord-dunkellins-statue"
 categories = [ "colonizers" ]
 tags = ["direct-action"]
+subjects = ["Lord Dunkellin"]
 weight = 1
 +++
 

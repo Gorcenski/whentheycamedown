@@ -8,6 +8,7 @@ photo_credits = "Unknown"
 photo_source_url = "https://www.richmond.com/news/local/update-protesters-pull-down-confederate-statue-in-richmonds-monroe-park/article_8e071910-e47f-5114-bb05-325e39fc20fd.html"
 categories = [ "confederates" ]
 tags = ["direct-action"]
+subjects = ["Williams Carter Wickham"]
 weight = 1
 +++
 

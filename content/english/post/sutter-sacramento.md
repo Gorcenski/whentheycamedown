@@ -8,6 +8,7 @@ photo_credits = "Videostream: KCBS-13"
 photo_source_url = "https://sacramento.cbslocal.com/2020/06/15/sacramento-john-sutter-statue-removed/"
 categories = [ "colonizers", "slavers", "rapists" ]
 tags = ["private-action"]
+subjects = ["John Sutter"]
 weight = 1
 +++
 

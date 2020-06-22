@@ -8,6 +8,7 @@ photo_credits = "Herald Sun"
 photo_source_url = "https://www.heraldsun.com/news/local/counties/durham-county/article167702402.html"
 categories = [ "confederates", "slavers" ]
 tags = ["private-action"]
+subjects = ["Robert E. Lee"]
 weight = 1
 +++
 

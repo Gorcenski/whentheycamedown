@@ -8,6 +8,7 @@ photo_credits = "Heresy Labs"
 photo_source_url = "https://mobile.twitter.com/heresysquad/status/1274190518650454017"
 categories = [ "colonizers" ]
 tags = ["direct-action"]
+subjects = ["Junípero Serra"]
 weight = 1
 +++
 

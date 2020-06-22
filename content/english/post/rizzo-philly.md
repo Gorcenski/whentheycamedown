@@ -8,6 +8,7 @@ photo_credits = "CBS Philly"
 photo_source_url = "https://www.youtube.com/watch?v=iip2mov1WIY"
 categories = [ "racists" ]
 tags = ["municipal-action"]
+subjects = ["Frank Rizzo"]
 weight = 1
 +++
 

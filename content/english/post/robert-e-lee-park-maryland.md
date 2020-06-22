@@ -8,6 +8,7 @@ photo_credits = "WMAR-TV"
 photo_source_url = "https://i.ytimg.com/vi/3g1ffVUtmGU/maxresdefault.jpg"
 categories = [ "confederates" ]
 tags = ["municipal-action", "renaming"]
+subjects = ["Robert E. Lee"]
 weight = 1
 +++
 

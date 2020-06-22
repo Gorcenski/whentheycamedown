@@ -8,6 +8,7 @@ date = "2020-06-18T14:35:00-05:00"
 title = "Confederate Speakers, Washington DC, USA"
 categories = [ "confederates", "racists" ]
 tags = ["municipal-action"]
+subjects = ["Robert Hunter", "Howell Cobb", "James Orr", "Charles Crisp"]
 weight = 1
 +++
 

@@ -8,6 +8,7 @@ photo_credits = "Ethan Hyman"
 photo_source_url = "https://www.newsobserver.com/news/local/article243559272.html"
 categories = ["racists"]
 tags = ["private-action"]
+subjects = ["Josephus Daniels"]
 weight = 1
 +++
 

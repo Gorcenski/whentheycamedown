@@ -8,6 +8,7 @@ photo_credits = "Kerri Colorado"
 photo_source_url = "https://whdh.com/news/bostons-beheaded-columbus-statue-removed-as-officials-re-evaluate-its-historic-meaning/"
 categories = [ "colonizers" ]
 tags = ["municipal-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 

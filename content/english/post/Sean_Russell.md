@@ -8,6 +8,7 @@ photo_credits = "Davide Malone"
 photo_source_url = "https://en.wikipedia.org/wiki/Se%C3%A1n_Russell#/media/File:FairviewParkSeanRussellStatue.jpg"
 categories = [ "war criminals" ]
 tags = ["direct-action"]
+subjects = ["Seán Russell"]
 weight = 1
 +++
 
