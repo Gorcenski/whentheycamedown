@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/leopold_ii_auderghem.jpg"
+image = "img/leopold_ii_audergham.jpg"
 date = "2020-06-12T00:00:00-00:00"
 title = "King Leopold II - Auderghem, Brussels, Belgium"
 photo_credits = "Belga"
