@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/leopold_ii_audergham.jpg"
+image = "img/leopold_ii_auderghem.jpg"
 date = "2020-06-12T00:00:00-00:00"
-title = "King Leopold II - Audergham, Brussels, Belgium"
+title = "King Leopold II - Auderghem, Brussels, Belgium"
 photo_credits = "Belga"
 photo_source_url = "https://www.brusselstimes.com/wp-content/uploads/2020/06/2051940_107315011_106769398.jpg"
 categories = [ "colonizers" ]
@@ -11,7 +11,7 @@ tags = ["direct-action"]
 weight = 1
 +++
 
-A bust of former Belgian King Leopold II in Audergham, a municipality of Brussels in Belgium, was splashed with red paint and pulled from its pedestal. 
+A bust of former Belgian King Leopold II in Auderghem, a municipality of Brussels in Belgium, was splashed with red paint and pulled from its pedestal. 
 
 <!--more-->
 
