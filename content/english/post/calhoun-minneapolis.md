@@ -25,7 +25,7 @@ Restoring the name Bde Maka Ska was opposed by the group "Save Lake Calhoun\*", 
 
 #### References
 
-[^1]: Reference missing
+[^1]: [John C. Calhoun](https://en.wikipedia.org/wiki/John_C._Calhoun)
 
 [^2]: [Save Lake Calhoun](http://www.savelakecalhoun.com)
 
