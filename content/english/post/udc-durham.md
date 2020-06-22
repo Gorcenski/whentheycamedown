@@ -28,6 +28,6 @@ This event spawned the social media hashtag [#DoItLikeDurham](https://doitlikedu
 
 [^1]: [Protesters in Durham Topple a Confederate Monument](https://www.nytimes.com/2017/08/14/us/protesters-in-durham-topple-a-confederate-monument.html)
 
-[^2]: [List of monuments erected by the United Daughters of the Confederacy](https://en.wikipedia.org/wiki/List_of_monuments_erected_by_the_United_Daughters_of_the_Confederacy)
+[^2]: [Wikipedia: List of monuments erected by the United Daughters of the Confederacy](https://en.wikipedia.org/wiki/List_of_monuments_erected_by_the_United_Daughters_of_the_Confederacy)
 
 [^3]: [The Lost Cause](https://www.encyclopediavirginia.org/Lost_Cause_The)
