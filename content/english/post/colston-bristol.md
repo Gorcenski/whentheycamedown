@@ -15,6 +15,16 @@ Edward Colston was toppled in Bristol, England, and escorted to the bottom of th
 
 <!--more-->
 
-The statue of the [prolific slave trader](https://counteringcolston.wordpress.com/who-was-edward-colston-2/) who was enriched by [selling over 80,000 enslaved people](https://en.wikipedia.org/wiki/Edward_Colston) was torn down by the people during the Uprising of 2020.
+The statue of the prolific slave trader who was enriched by selling over 80,000 enslaved people was torn down by the people during the Uprising of 2020.[^1] [^2]
 
-The statue, which had previously been ["recontextualized,"](http://web.archive.org/web/20190330033857/https://www.bristolpost.co.uk/news/bristol-news/wording-second-plaque-proposed-edward-1810137) was torn down and rolled to the nearby harbor of the river Avon, and [unceremoniously pitched therein.](https://www.smithsonianmag.com/smart-news/protesters-throw-slavers-statue-bristol-harbor-make-waves-across-britain-180975060/)
+The statue, which had previously been "recontextualized,"[^3] was torn down and rolled to the nearby harbor of the river Avon, and unceremoniously pitched therein.[^4]
+
+#### References
+
+[^1]: [Who was Colston?](https://counteringcolston.wordpress.com/who-was-edward-colston-2/)
+
+[^2]: [Wikipedia: Edward Colston](https://en.wikipedia.org/wiki/Edward_Colston)
+
+[^3]: [The wording of second plaque proposed for Edward Colston statue linking him to 20,000 deaths](http://web.archive.org/web/20190330033857/https://www.bristolpost.co.uk/news/bristol-news/wording-second-plaque-proposed-edward-1810137)
+
+[^4]: [British Protesters Throw Statue of Slave Trader Into Bristol Harbor](https://www.smithsonianmag.com/smart-news/protesters-throw-slavers-statue-bristol-harbor-make-waves-across-britain-180975060/)

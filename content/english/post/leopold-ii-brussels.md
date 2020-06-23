@@ -24,8 +24,11 @@ Other statues of King Leopold II have also been pulled down. For example one in 
 
 #### References
 
-[^1]: [Leopold II of Belgium](https://en.wikipedia.org/wiki/Leopold_II_of_Belgium)
+[^1]: [Wikipedia: Leopold II of Belgium](https://en.wikipedia.org/wiki/Leopold_II_of_Belgium)
+
 [^2]: [Belgium begins to face brutal colonial legacy of Leopold II](https://www.theguardian.com/world/2019/nov/23/belgium-begins-to-face-brutal-colonial-legacy-of-leopold-ii)
+
 [^3]: [Leopold II bust pulled from pedestal in Brussels (Brussels Times)](https://www.brusselstimes.com/brussels/116479/leopold-ii-bust-pulled-from-pedestal-in-brussels/)
+
 [^4]: [Twitter](https://twitter.com/vivacite/status/1271326543923474437?s=20)
 

@@ -26,4 +26,4 @@ A few days before the Lee statue was removed, a Confederate soldier memorial [wa
 
 [^1]: [Vandals strike statue of Confederate General Robert E. Lee at Duke University](https://www.heraldsun.com/news/local/counties/durham-county/article167702402.html)
 
-[^2]: [](https://www.1310news.com/2017/08/19/duke-university-removes-statue-of-confederate-general/)
+[^2]: [Duke University removes damaged Robert E. Lee statue](https://www.1310news.com/2017/08/19/duke-university-removes-statue-of-confederate-general/)

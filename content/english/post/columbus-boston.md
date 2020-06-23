@@ -21,6 +21,8 @@ This was not the first time the Columbus statue was vandalized. In 2015, the sta
 
 Christopher Columbus played an instrumental role in, among other crimes, the genocide of the Taíno and Arawak people.[^5]
 
+#### References
+
 [^1]: [Christopher Columbus statue in Boston beheaded](https://www.cbsnews.com/news/christopher-columbus-statue-boston-beheaded-confederate-monuments-torn-down/)
 
 [^2]: [Boston’s beheaded Columbus statue removed as officials re-evaluate its historic meaning](https://whdh.com/news/bostons-beheaded-columbus-statue-removed-as-officials-re-evaluate-its-historic-meaning/)

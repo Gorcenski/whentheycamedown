@@ -19,7 +19,12 @@ The statue was donated to the hospital system in 1987 by a Swiss-American group 
 
 Sutter enslaved hundreds of Native Americans from 1839 - 1849 and participated in the genocide of indigenous peoples in California.
 
+#### References
+
 [^1]: [John Sutter Statue Outside Sacramento Hospital Being Removed](https://www.kcra.com/article/john-sutter-statue-sacramento-hospital-being-removed/32871903)
+
 [^2]: [Sacramento John Sutter Statue Removed After Recent Vandalism](https://sacramento.cbslocal.com/2020/06/15/sacramento-john-sutter-statue-removed/)
+
 [^3]: [John Sutter Statue In Sacramento Splashed With Red Paint](https://sacramento.cbslocal.com/2020/06/09/john-sutter-statue-vandalism-paint-sacramento/)
+
 [^4]: [The Enslaved Native Americans Who Made The Gold Rush Possible](https://www.history.com/news/the-enslaved-native-americans-who-made-the-gold-rush-possible)

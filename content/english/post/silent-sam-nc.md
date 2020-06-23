@@ -24,8 +24,13 @@ Protestors held a rally on 20 August 2018 in support of Little and in opposition
 #### References
 
 [^1]: [Program for the Dedication of the Confederate Monument, 1913](https://exhibits.lib.unc.edu/items/show/3687)
+
 [^2]: [‘Silent Sam’: A racist Jim Crow-era speech inspired UNC students to topple a Confederate monument on campus](https://www.washingtonpost.com/news/morning-mix/wp/2018/08/21/silent-sam-a-racist-jim-crow-era-speech-inspired-unc-students-to-topple-a-confederate-monument-on-campus/)
+
 [^3]: [Meet Maya Little, UNC Student Whose Protest Ignited the Movement to Topple a Racist Confederate Statue](https://www.democracynow.org/2018/8/22/meet_maya_little_unc_student_whose)
+
 [^4]: [Video of Maya Little's direct action from Samee Siddiqui on Twitter](https://twitter.com/ssiddiqui83/status/991019115535007744)
+
 [^5]: [Judge declines to punish student who poured ink on statue](https://web.archive.org/web/20181016203305/https://www.miamiherald.com/news/nation-world/article220046125.html)
+
 [^6]: [Confederate statue on UNC campus toppled by protesters](https://web.archive.org/web/20180821124653/https://apnews.com/ca35b98f9b2145fb9221e2ab58419044/Confederate-statue-on-UNC-campus-toppled-by-protesters#/web/20180821124653mp_/https://apnews.com/)

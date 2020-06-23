@@ -15,6 +15,15 @@ A Confederate memorial built by the United Daughters of the Confederacy was remo
 
 <!--more-->
 
-The United Daughters of the Confederacy memorial [was boarded up in 2017](https://www.bostonmagazine.com/news/2017/08/16/massachusetts-confederate-monument-boarded-up/). Months later, after the fatal Unite the Right rally in Charlottesville, Virginia, [the state removed](https://www.bostonmagazine.com/news/2017/10/02/massachusetts-removing-confederate-monument/) the only Confederal memorial on public land in Massachusetts.
+The United Daughters of the Confederacy memorial was boarded up in 2017.[^1] Months later, after the fatal Unite the Right rally in Charlottesville, Virginia, the state removed the only Confederal memorial on public land in Massachusetts.[^2]
 
-The memorial was erected in 1963, almost 100 years after the end of the American Civil War, by the United Daughters of the Confederacy, a group which promoted [the disproven "Lost Cause"](https://www.encyclopediavirginia.org/Lost_Cause_The) myth of the Civil War, and which had been responsible for the erection of Confederate memorials throughout the country during the Jim Crow era. These memorials were often inteded to intimidate local Black residents.
+The memorial was erected in 1963, almost 100 years after the end of the American Civil War, by the United Daughters of the Confederacy, a group which promoted the disproven "Lost Cause" myth of the Civil War, and which had been responsible for the erection of Confederate memorials throughout the country during the Jim Crow era.[^3] These memorials were often inteded to intimidate local Black residents.
+
+
+#### References
+
+[^1]: [Massachusetts’ Only Confederate Monument Has Been Boarded Up](https://www.bostonmagazine.com/news/2017/08/16/massachusetts-confederate-monument-boarded-up/)
+
+[^2]: [Massachusetts Is Finally Removing Its Confederate Monument](https://www.bostonmagazine.com/news/2017/10/02/massachusetts-removing-confederate-monument/)
+
+[^3]: [The Lost Cause](https://www.encyclopediavirginia.org/Lost_Cause_The)

@@ -11,6 +11,10 @@ tags = ["municipal-action"]
 weight = 1
 +++
 
-A 30-foot obelisk Confederate moment, which has stood for 112 years, was taken down in the downtown Decatur square, after a DeKalb county judge ordered it taken down.
+A 30-foot obelisk Confederate moment, which has stood for 112 years, was taken down in the downtown Decatur square, after a DeKalb county judge ordered it taken down.[^1]
 
 Read more here: https://www.ajc.com/news/local/breaking-confederate-monument-decatur-appears-coming-down/1SfeR7g7YZdScfGI5NVfSJ/
+
+#### References
+
+[^1]: [LOCAL UPDATE: The Confederate monument in Decatur comes down](https://www.ajc.com/news/local/breaking-confederate-monument-decatur-appears-coming-down/1SfeR7g7YZdScfGI5NVfSJ/)

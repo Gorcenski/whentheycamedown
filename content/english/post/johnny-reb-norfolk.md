@@ -23,6 +23,6 @@ The statue was originally constructed by the United Daughters of the Confederacy
 
 [^1]: [Statue of Confederate soldier removed from downtown Norfolk](https://www.richmond.com/news/virginia/statue-of-confederate-soldier-removed-from-downtown-norfolk/article_bd24ac37-8e53-56b8-ae47-f22407f9b0bf.html)
 
-[^2]: [Norfolk Confederate Monument](https://en.wikipedia.org/wiki/Norfolk_Confederate_Monument)
+[^2]: [Wikipedia: Norfolk Confederate Monument](https://en.wikipedia.org/wiki/Norfolk_Confederate_Monument)
 
 [^3]: [Norfolk's “Johnny Reb” Confederate statue belongs in a museum, says sculptor's descendant](https://www.pilotonline.com/government/local/article_ceda4930-e7bd-50c2-8d75-0b0c5bae9f36.html)

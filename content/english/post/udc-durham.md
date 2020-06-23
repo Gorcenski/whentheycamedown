@@ -15,10 +15,19 @@ A Durham, NC Confederate memorial built by the United Daughters of the Confedera
 
 <!--more-->
 
-The United Daughters of the Confederacy memorial [was torn down in 2017](https://www.nytimes.com/2017/08/14/us/protesters-in-durham-topple-a-confederate-monument.html). Days after the fatal Unite the Right rally in Charlottesville, Virginia, tore down the monument, [one of many funded with help from the organization](https://en.wikipedia.org/wiki/List_of_monuments_erected_by_the_United_Daughters_of_the_Confederacy).
+The United Daughters of the Confederacy memorial was torn down in 2017.[^1] Days after the fatal Unite the Right rally in Charlottesville, Virginia, tore down the monument, one of many funded with help from the organization.[^2]
 
-The memorial was erected in 1924, almost 60 years after the end of the American Civil War, by the United Daughters of the Confederacy, a group which promoted [the disproven "Lost Cause"](https://www.encyclopediavirginia.org/Lost_Cause_The) myth of the Civil War, and which had been responsible for the erection of Confederate memorials throughout the country during the Jim Crow era. These memorials were often inteded to intimidate local Black residents.
+The memorial was erected in 1924, almost 60 years after the end of the American Civil War, by the United Daughters of the Confederacy, a group which promoted the disproven "Lost Cause" myth of the Civil War, and which had been responsible for the erection of Confederate memorials throughout the country during the Jim Crow era.[^3] These memorials were often inteded to intimidate local Black residents.
 
 This event spawned the social media hashtag [#DoItLikeDurham](https://doitlikedurham.org/) and was one of several Confederate statues to come down around the country in the wake of Unite the Right, a rally that was ostensibly in support of the Robert E. Lee statue in Charlottesville, but which was actually a white supremacist show of force.
 
 {{< youtube H-uAZa4H1vk >}}
+<br>
+
+#### References
+
+[^1]: [Protesters in Durham Topple a Confederate Monument](https://www.nytimes.com/2017/08/14/us/protesters-in-durham-topple-a-confederate-monument.html)
+
+[^2]: [Wikipedia: List of monuments erected by the United Daughters of the Confederacy](https://en.wikipedia.org/wiki/List_of_monuments_erected_by_the_United_Daughters_of_the_Confederacy)
+
+[^3]: [The Lost Cause](https://www.encyclopediavirginia.org/Lost_Cause_The)
