@@ -34,9 +34,13 @@ url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribuir"
 weight = 1
 [[languages.es.menu.main]]
+url = "/about/"
+name = "Acerca"
+weight = 2
+[[languages.es.menu.main]]
 url = "/"
 name = "English"
-weight = 2
+weight = 3
 # [[menu.main]]
 # url = "/tags"
 # name = "Tags"
