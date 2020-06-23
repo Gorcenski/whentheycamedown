@@ -1,3 +1,9 @@
++++
+date = "2020-06-20T13:15:00+02:00"
+title = "Sobre el Sitio"
+type = "about"
++++
+
 whentheycamedown es un proyecto que documenta la eliminación de estatuas que representan la supremacía de la raza blanca, la opresión, el genocidio, el colonialismo y el racismo en todo el mundo. Este es un esfuerzo de colaboración iniciado por Emily Gorcenski, aunque la intención del proyecto es contribuir con código abierto al estilo del conocimiento abierto.
 
 Este proyecto adopta la postura de que la eliminación de estatuas representa una parte importante e inextricable de la historia de las personas, grupos y momentos que representan esas estatuas. La eliminación de estatuas, el cambio de nombre de parques y acciones similares no es un acto de borrar la historia, sino un acto de agregar a la historia al capturar el espíritu, las creencias, las motivaciones y las acciones de las personas que vivieron durante el tiempo en que esas estatuas se mantuvieron. El objetivo de este proyecto es documentar a las personas que pretendieron eliminar los monumentos más que a las personas representadas por los monumentos. El proyecto busca documentar la historia de los activistas, sus esfuerzos para eliminar las estatuas a través de canales adecuados e inapropiados, y la historia de las personas oprimidas por aquellos a quienes representan las estatuas.
