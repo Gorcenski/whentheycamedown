@@ -8,6 +8,7 @@ photo_credits = "Big Yikes"
 photo_source_url = "https://twitter.com/BigShaun/status/1272369937001005057"
 categories = [ "slavers" ]
 tags = ["direct-action"]
+subjects = ["Thomas Jefferson"]
 weight = 1
 +++
 

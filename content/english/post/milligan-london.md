@@ -8,6 +8,7 @@ photo_credits = "Unknown"
 photo_source_url = "https://www.bbc.co.uk/news/uk-england-london-52977088"
 categories = [ "slavers" ]
 tags = ["municipal-action"]
+subjects = ["Robert Milligan"]
 weight = 1
 +++
 

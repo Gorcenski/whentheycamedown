@@ -8,6 +8,7 @@ photo_credits = "AJ+"
 photo_source_url = "https://twitter.com/ajplus/status/986664356858413056"
 categories = [ "racists" ]
 tags = ["municipal-action"]
+subjects = ["James Marion Sims"]
 weight = 1
 +++
 

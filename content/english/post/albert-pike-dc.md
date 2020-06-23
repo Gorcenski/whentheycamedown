@@ -8,6 +8,7 @@ photo_credits = "Melissa Byrne"
 photo_source_url = "https://twitter.com/mcbyrne/status/1274181393598291973/photo/2"
 categories = [ "confederates" ]
 tags = ["direct-action"]
+subjects = ["Albert Pike"]
 weight = 1
 +++
 

@@ -8,6 +8,7 @@ photo_credits = "Patricia Trujillo"
 photo_source_url = "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/a/c8/ac812384-af3e-11ea-9959-5f91e717863e/5ee7cc568232d.image.jpg?resize=1200%2C900"
 categories = [ "colonizers", "slavers" ]
 tags = ["municipal-action"]
+subjects = ["Juan de Oñate"]
 weight = 1
 +++
 

@@ -8,6 +8,7 @@ photo_credits = "Mike Hutchings/Reuters"
 photo_source_url = "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/4/9/1428599444975/00b85daf-5871-4d5b-b8ba-1fb48a946d52-2060x1236.jpeg?width=605&quality=45&auto=format&fit=max&dpr=2&s=3d1b6c9c07402cf715bce59aa2ec941a"
 categories = [ "colonizers" ]
 tags = [ "private-action" ]
+subjects = ["Cecil Rhodes"]
 weight = 1
 +++
 

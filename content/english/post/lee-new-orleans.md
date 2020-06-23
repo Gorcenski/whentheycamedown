@@ -8,6 +8,7 @@ photo_credits = "Infrogmation of New Orleans"
 photo_source_url = "https://en.wikipedia.org/wiki/Removal_of_Confederate_monuments_and_memorials#/media/File:Robert_E_Lee_statue_removed_from_column_New_Orleans_19_May_2017_12.jpg"
 categories = [ "confederates", "slavers" ]
 tags = ["municipal-action"]
+subjects = ["Robert E. Lee"]
 weight = 1
 +++
 

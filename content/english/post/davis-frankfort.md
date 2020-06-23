@@ -8,6 +8,7 @@ photo_credits = "Ryan C. Hermens/Lexington Herald-Leader, via Associated Press"
 photo_source_url = "https://static01.nyt.com/images/2020/06/16/business/16virus-ap-jeffersondavis/merlin_173502447_0442e8be-53f8-42eb-ac72-e226a6c18ac7-jumbo.jpg"
 categories = [ "confederates", "slavers" ]
 tags = ["municipal-action"]
+subjects = ["Jefferson Davis"]
 weight = 1
 +++
 

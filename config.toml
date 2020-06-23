@@ -6,6 +6,7 @@ theme = "hugo-nederburg-theme"
 [taxonomies]
    tag = "tags"
    category = "categories"
+   subject = "subjects"
 
 [languages]
   [languages.en]

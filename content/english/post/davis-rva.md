@@ -8,6 +8,7 @@ photo_credits = "Eric Millikin"
 photo_source_url = "https://twitter.com/ericmillikin/status/1270916160553390083"
 categories = [ "confederates", "slavers" ]
 tags = ["direct-action"]
+subjects = ["Jefferson Davis"]
 weight = 1
 +++
 

@@ -8,6 +8,7 @@ photo_credits = "Hamilton City Council"
 photo_source_url = "https://abc3340.com/resources/media/554809db-bb74-45dd-beac-013e315ae16e-medium16x9_AP20164049741786.jpg?1591928611926"
 categories = [ "colonizers" ]
 tags = ["municipal-action"]
+subjects = ["John Fane Charles Hamilton"]
 weight = 1
 +++
 

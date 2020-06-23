@@ -8,6 +8,7 @@ photo_credits = "Belga"
 photo_source_url = "https://www.brusselstimes.com/wp-content/uploads/2020/06/2051940_107315011_106769398.jpg"
 categories = [ "colonizers" ]
 tags = ["direct-action"]
+subjects = ["King Leopold II"]
 weight = 1
 +++
 

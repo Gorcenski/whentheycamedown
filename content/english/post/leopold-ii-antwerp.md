@@ -8,6 +8,7 @@ photo_credits = "peterseynaeve"
 photo_source_url = "instagram.com/peterseynaeve"
 categories = [ "colonizers" ]
 tags = ["municipal-action", "direct-action"]
+subjects = ["King Leopold II"]
 weight = 1
 +++
 

@@ -8,6 +8,7 @@ photo_credits = "Unknown"
 photo_source_url = "https://timesfamous.com/worldnews/demonstranten-werfen-statue-von-sklavenhandler-in-hafenbecken/"
 categories = [ "slavers" ]
 tags = ["direct-action"]
+subjects = ["Edward Colston"]
 weight = 1
 +++
 

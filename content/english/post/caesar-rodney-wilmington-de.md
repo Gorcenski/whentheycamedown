@@ -8,6 +8,7 @@ photo_credits = "William Bretzger, Delaware News Journal"
 photo_source_url = "https://www.delawareonline.com/story/news/2020/06/12/wilmington-remove-christopher-columbus-caesar-rodney-statues/3175003001/"
 categories = ["slavers"]
 tags = ["municipal-action"]
+subjects = ["Caesar Rodney"]
 weight = 1
 +++
 

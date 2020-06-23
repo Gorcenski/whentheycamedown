@@ -8,6 +8,7 @@ photo_credits = "Peter Chu"
 photo_source_url = "https://mobile.twitter.com/pcnotpc/status/1274207217588158464"
 categories = [ "slavers" ]
 tags = ["direct-action"]
+subjects = ["Francis Scott Key"]
 weight = 1
 +++
 

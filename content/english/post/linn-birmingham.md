@@ -8,6 +8,7 @@ photo_credits = "Jay Reeves/Associated Press"
 photo_source_url = "https://static01.nyt.com/images/2020/07/01/us/01unrest-birmingham1/merlin_173074224_8a51fda3-cb31-4a4a-a347-7cce13945593-superJumbo.jpg"
 categories = [ "confederates" ]
 tags = ["direct-action", "municipal-action"]
+subjects = ["Charles Linn"]
 weight = 1
 +++
 

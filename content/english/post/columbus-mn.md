@@ -8,6 +8,7 @@ photo_credits = "Max Nesternak"
 photo_source_url = "https://twitter.com/maxnesterak/status/1270839474445049857"
 categories = [ "colonizers" ]
 tags = ["direct-action"]
+subjects = ["Christopher Columbus"]
 weight = 1
 +++
 
