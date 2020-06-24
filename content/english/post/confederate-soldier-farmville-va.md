@@ -14,7 +14,9 @@ weight = 1
 The statue
 on High Street in Farmville, VA
 
-The Farmville Town Council voted unanimously at its continued council meeting on June 18, 2020 to remove the Confederate statue located at the intersection of High and Randolph streets, according to a Thursday evening press release from the Town of Farmville[^1]. The continued meeting was scheduled to begin at 7pm; the removal of the statue with a crane was underway by 7:30pm [^1].
+The Farmville Town Council voted unanimously at its continued council meeting on June 18, 2020 to remove the Confederate statue located at the intersection of High and Randolph streets[^1]. The continued meeting was scheduled to begin at 7pm; the removal of the statue with a crane was underway by 7:30pm [^1]. A local newspaper reported that the audience for the removal consisted of "police officers, town council members and a crowd of around 50 onlookers"[^1]. “The statue will be secured off-site and preserved until further conversation with various community groups and the citizens of Farmville about its relocation and the appropriate disposition of the monument base,” officials stated in a press release[^1]. The statue consisted of a seven-foot-tall bronze soldier at the top of the 19-foot pedestal made of Virginia gray granite; only the statue portion was removed by truck, leaving the pedestal in place[^1]. 
+
+The statue was put into place in October of 1900 by Confederate Veterans and Daughters of the Confederacy at a cost of $3,000, on property owned by the town, in front of the Farmville United Methodist Church and across from Longwood University[^1].
 
 #### Notes
 
