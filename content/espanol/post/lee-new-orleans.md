@@ -14,10 +14,18 @@ weight = 1
 
 Un monumento al general confederado estadounidense Robert E. Lee fue eliminado por la acción de la ciudad a principios de 2017.
 
-<! - more ->
+<!-- more -->
 
-En 2014, el destacado músico de jazz Wynton Marsalis convenció al [^ 1] alcalde de Nueva Orleans, Mitch Landrieu, de que considerara quitar la estatua de Robert E. Lee. En diciembre de 2015, esto llevó a un voto del el consejo municipal [^ 2] para eliminar la estatua y otras tres estatuas de la confederación.
+En 2014, el destacado músico de jazz Wynton Marsalis convenció al[^1] alcalde de Nueva Orleans, Mitch Landrieu, de que considerara quitar la estatua de Robert E. Lee. En diciembre de 2015, esto llevó a un voto del el consejo municipal[^2] para eliminar la estatua y otras tres estatuas de la confederación.
 
-Después de las batallas legales, el intento de bloquear la legislación, los comentarios públicos e incluso la oposición pública del gobernador Bobby Jindal, las estatuas finalmente fueron eliminadas [^ 3] en mayo de 2017.
+Después de las batallas legales, el intento de bloquear la legislación, los comentarios públicos e incluso la oposición pública del gobernador Bobby Jindal, las estatuas finalmente fueron eliminadas[^3] en mayo de 2017.
 
-{{<youtube gCWW-3lQURA>}}de la confederacióncon con el derribo de la estatua de Robert E. Lee] (https://www.nola.com/news/article_ea7f25d7-ddab-58b4-b168-38965e9129e6.html)
+{{<youtube gCWW-3lQURA>}}
+
+#### References
+
+[^1]: [Mitch Landrieu on Confederate landmarks: 'That's what museums are for'](https://www.nola.com/news/politics/article_9971d9c6-6a68-51da-9343-67c7d0ab9b3b.html)
+
+[^2]: [Lee Circle no more: New Orleans to remove 4 Confederate statues](https://www.nola.com/news/politics/article_abfc7015-39f1-5b43-90f7-819af1623a38.html)
+
+[^3]: [New Orleans completes removal of Confederate monuments with take down of Robert E. Lee statue](https://www.nola.com/news/article_ea7f25d7-ddab-58b4-b168-38965e9129e6.html)

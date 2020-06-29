@@ -26,10 +26,10 @@ weight = 1
 url = "/about/"
 name = "About"
 weight = 2
-# [[languages.en.menu.main]]
-# url = "/es/"
-# name = "Español"
-# weight = 2
+[[languages.en.menu.main]]
+url = "/es/"
+name = "Español"
+weight = 3
 [[languages.es.menu.main]]
 url = "https://github.com/Gorcenski/whentheycamedown/blob/trunk/README.md"
 name = "Contribuir"
