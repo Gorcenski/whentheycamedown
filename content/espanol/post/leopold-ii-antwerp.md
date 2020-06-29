@@ -1,3 +1,17 @@
++++
+showonlyimage = true
+draft = false
+image = "img/leopold_antwerp.jpeg"
+date = "2020-06-09T18:00:00+02:00"
+title = "King Leopold II—Antwerp, Belgium"
+photo_credits = "peterseynaeve"
+photo_source_url = "instagram.com/peterseynaeve"
+categories = [ "colonizers" ]
+tags = ["municipal-action", "direct-action"]
+subjects = ["King Leopold II"]
+weight = 1
++++
+
 Una estatua del colonizador Rey Leopoldo II en Amberes, Bélgica, fue retirada de la vista pública después de que los manifestantes le prendieron fuego.
 
 <! - more ->
