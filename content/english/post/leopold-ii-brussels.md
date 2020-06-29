@@ -16,9 +16,9 @@ A bust of former Belgian King Leopold II in Auderghem, a municipality of Brussel
 
 <!--more-->
 
-King Leopold II colonized the Congo in the mid-1880s and ran a brutal regime involving slavery, resource exploitation, and genocide, which lasted until 1960 and left an estimated 10-15 million dead.  [^1][^2]
+King Leopold II colonized the Congo in the mid-1880s and ran a brutal regime involving slavery, resource exploitation, and genocide, which lasted until 1960 and left an estimated 10-15 million dead.[^1] [^2]
 
-It is unknown exactly who pulled down the statue in the night of 12th June 2020 but some reports say there was a group of approximately 10 people, who had disappeared by the time the police arrived. [^3] Images on Twitter  appear to show the bust being removed from its pedestal.[^4]  
+It is unknown exactly who pulled down the statue in the night of 12th June 2020 but some reports say there was a group of approximately 10 people, who had disappeared by the time the police arrived.[^3] Images on Twitter  appear to show the bust being removed from its pedestal.[^4]  
 
 Other statues of King Leopold II have also been pulled down. For example one in [Antwerp](https://whentheycamedown.com/post/leopold-ii-antwerp/).   
 
