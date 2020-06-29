@@ -1,3 +1,17 @@
++++
+showonlyimage = true
+draft = false
+image = "img/lee_new_orleans.jpg"
+date = "2017-05-19T16:03:00-05:00"
+title = "Robert E. Lee—New Orleans, LA"
+photo_credits = "Infrogmation of New Orleans"
+photo_source_url = "https://en.wikipedia.org/wiki/Removal_of_Confederate_monuments_and_memorials#/media/File:Robert_E_Lee_statue_removed_from_column_New_Orleans_19_May_2017_12.jpg"
+categories = [ "confederates", "slavers" ]
+tags = ["municipal-action"]
+subjects = ["Robert E. Lee"]
+weight = 1
++++
+
 Un monumento al general confederado estadounidense Robert E. Lee fue eliminado por la acción de la ciudad a principios de 2017.
 
 <! - more ->
