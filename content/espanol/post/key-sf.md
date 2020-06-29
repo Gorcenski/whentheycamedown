@@ -14,7 +14,7 @@ weight = 1
 
 Francis Scott Key, propietario de esclavos y autor de "Star Spangled Banner" (el himno nacional de los Estados Unidos) fue despojado de su posición por acción directa el 16 de junio de 2020.
 
-<!-- more -->
+<!--more-->
 
 Mejor conocido por escribir el himno nacional estadounidense, "The Star Spangled Banner", una canción con letras racistas[^1], Francis Scott Key era un propietario de esclavos impenitente.[^2] Una estatua de Key en Golden Gate Park fue volcada por los manifestantes y la base fue destrozada durante las protestas del 15 de junio en 2020.[^3] La eliminación de la estatua se produce después de años de esfuerzos de los lugareños para eliminar las referencias locales a racistas y propietarios de esclavos, incluida una escuela local.[^4]
 

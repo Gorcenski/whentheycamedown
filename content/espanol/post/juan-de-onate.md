@@ -14,7 +14,7 @@ weight = 1
 
 Una estatua del colonizador español del siglo XVI Juan de Oñate del siglo XVI fue removida por el condado de Río Arriba, Nuevo México, antes de una protesta planeada por activistas que habían denunciado la presencia de la estatua.
 
-<!-- more -->
+<!--more-->
 
 Oñate, quien llegó a Nueva España (a lo que hoy es Nuevo México) en 1598, se considera como una figura fundadora entre algunos descendientes locales de colonos españoles. Sin embargo, es más conocido por la comunidad indígena por esclavizar a sus sirvientes indígenas y de ascendencia mestíza. Además, ordenó la eliminación del pie derecho de cada uno de los 24 cautivos después de que sus soldados atacaron el Acoma Pueblo. Una persona desconocida cortó el pie derecho de la estatua de Oñate en 1998.[^1]
 

@@ -14,7 +14,7 @@ weight = 1
 
 Un monumento al general confederado estadounidense Robert E. Lee fue eliminado por la acción de la ciudad a principios de 2017.
 
-<!-- more -->
+<!--more-->
 
 En 2014, el destacado músico de jazz Wynton Marsalis convenció al[^1] alcalde de Nueva Orleans, Mitch Landrieu, de que considerara quitar la estatua de Robert E. Lee. En diciembre de 2015, esto llevó a un voto del el consejo municipal[^2] para eliminar la estatua y otras tres estatuas de la confederación.
 

@@ -14,7 +14,7 @@ weight = 1
 
 Una estatua del general confederado Robert E. Lee fue retirado de la capilla de la Universidad de Duke después de sufrir daños en la semana siguiente a Unite the Right.
 
-<!-- more -->
+<!--more-->
 
 En los días posteriores a la manifestación fatal de Unite the Right en Charlottesville, Virginia, se dañó la cara de la estatua de Robert E. Lee (que adorna la Capilla de la Universidad de Duke) fue dañada.[^1] Días después, la estatua fue retirada a pedido de la administración universitaria.[^2] La ley estatal prohíbe la eliminación de estatuas similares en terrenos públicos, pero la Universidad de Duke es una institución privada, por lo que la ley no se aplica.
 

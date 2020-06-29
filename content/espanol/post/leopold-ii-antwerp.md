@@ -14,7 +14,7 @@ weight = 1
 
 Una estatua del colonizador Rey Leopoldo II en Amberes, Bélgica, fue retirada de la vista pública después de que los manifestantes le prendieron fuego.
 
-<!-- more -->
+<!--more-->
 
 El rey Leopoldo II colonizó el Congo a mediados de la década de 1880 y dirigió un régimen brutal que involucraba esclavitud, extracción de recursos ecocidas y genocidio, que duró hasta 1960 y dejó aproximadamente 10 millones de muertos[^1] [^2]. En la noche del 3 de junio de 2020, los rebeldes prendieron fuego a una de las muchas estatuas suyas en Bélgica, esta en Amberes, como parte del levantamiento internacional de liberación y movimiento negrx de 2020[^3]. Posteriormente, el 9 de junio, el gobierno de la ciudad retiró la estatua y la colocó en el museo de Middelheim, donde permanecerá "por el momento". Un ayudante del alcalde conservador de Amberes, Bart De Wever, comunicó que la estatua fue retirada porque representaba un "problema de seguridad pública", y no debido a la protesta pública. Agregó que la plaza donde había estado se someterá a un rediseño en 2023, "probablemente sin espacio para la estatua[^4]".
 
