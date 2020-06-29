@@ -1,3 +1,17 @@
++++
+showonlyimage = true
+draft = false
+image = "img/key_sf.jpeg"
+date = "2020-06-19T21:00:00-07:00"
+title = "Francis Scott Key—San Francisco, CA, USA"
+photo_credits = "Peter Chu"
+photo_source_url = "https://mobile.twitter.com/pcnotpc/status/1274207217588158464"
+categories = [ "slavers" ]
+tags = ["direct-action"]
+subjects = ["Francis Scott Key"]
+weight = 1
++++
+
 Francis Scott Key, propietario de esclavos y autor de "Star Spangled Banner" (el himno nacional de los Estados Unidos) fue despojado de su posición por acción directa el 16 de junio de 2020.
 
 <! - more ->
