@@ -1,3 +1,17 @@
++++
+showonlyimage = true
+draft = false
+image = "img/lee_durham.jpg"
+date = "2017-08-19T08:23:00-05:00"
+title = "Robert E. Lee—Durham, NC, USA"
+photo_credits = "Herald Sun"
+photo_source_url = "https://www.heraldsun.com/news/local/counties/durham-county/article167702402.html"
+categories = [ "confederates", "slavers" ]
+tags = ["private-action"]
+subjects = ["Robert E. Lee"]
+weight = 1
++++
+
 Una estatua del general confederado Robert E. Lee fue retirado de la capilla de la Universidad de Duke después de sufrir daños en la semana siguiente a Unite the Right.
 
 <! - more ->
