@@ -14,7 +14,7 @@ weight = 1
 
 Una estatua de un soldado confederado apodado "Johnny Reb" fue removida en Norfolk, Virginia, en base a la acción de la ciudad.
 
-<! - more ->
+<!--more-->
 
 Después de Unite the Right, (La manifestación Unite the Right fue una manifestación blanca supremacista y neonazi que se llevó a cabo en Charlottesville, Virginia, del 11 al 12 de agosto de 2017. Los manifestantes eran miembros de la extrema derecha e incluían miembros autoidentificados de la derecha alternativa, neo-confederados, neofascistas, nacionalistas blancos, neonazis, miembros del clan y varias milicias de derecha) en Charlottesville en 2017, el Ayuntamiento de Norfolk decidió eliminar las estatuas confederadas que aún permanecen en la ciudad. 
 
