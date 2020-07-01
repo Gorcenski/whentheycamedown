@@ -6,7 +6,7 @@ date = "2020-06-18:00:00-21:29"
 title = "Memorial to Company A, Little Rock, AR, U.S.A."
 photo_credits = "unknown"
 photo_source_url = "https://www.waymarking.com/waymarks/WM979Y_Memorial_To_Company_A_Capital_Guards_Little_Rock_Arkansas"
-categories = ["confederates", "confederate soldiers"]
+categories = ["confederates"]
 tags = ["municipal-action"]
 weight = 1
 +++
