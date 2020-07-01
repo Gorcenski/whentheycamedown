@@ -15,7 +15,7 @@ Christopher Columbus was toppled in Richmond, Virginia.
 
 <!--more-->
 
-The statue of the colonizer[^1] responsible for Native genocide[^2] was torn down by the people during the Uprising of 2020.
+The Richmond, Virginia, U.S.A. statue of the colonizer[^1] responsible for the genocide[^2] of Indigenous people was torn down by the people during the Uprising of 2020.
 
 The statue, formerly of Byrd Park, was toppled, set on fire, and dragged to a nearby lake.[^3]
 

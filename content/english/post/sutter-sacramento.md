@@ -17,7 +17,7 @@ A statue of John Sutter was removed from the campus of Sutter General Hospital /
 
 The statue was donated to the hospital system in 1987 by a Swiss-American group after it was refused by Sutter's Fort State Historic Park.
 
-Sutter enslaved hundreds of Native Americans from 1839 - 1849 and participated in the genocide of indigenous peoples in California.
+Sutter enslaved hundreds of Indigenous people from 1839 - 1849 and participated in the genocide of Indigenous peoples in California.
 
 #### References
 
