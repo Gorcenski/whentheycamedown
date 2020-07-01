@@ -2,14 +2,18 @@
 showonlyimage = true
 draft = false
 image = "img/confederate-soldier-farmville-va.jpg"
-date = "2020-06-18:19:00-23:59"
+date = "2020-06-18T19:00:00-04:00"
 title = "Confederate solider, Farmville, VA, U.S.A."
 photo_credits = "Alexa Massey"
 photo_source_url = "https://www.farmvilleherald.com/2020/06/confederate-statue-removed-after-farmville-town-council-approval/"
-categories = ["confederates", "confederate soldiers"]
+categories = ["confederates"]
 tags = ["municipal-action"]
 weight = 1
 +++
+
+A statue of a Confederate soldier was removed from an intersection in Farmville, VA, following action by the local government.
+
+<!--more-->
 
 The Farmville Town Council voted unanimously at its continued council meeting on June 18, 2020 to remove the Confederate statue located at the intersection of High and Randolph streets in Farmville, VA, U.S.A.[^1]. The continued meeting was scheduled to begin at 7pm; the removal of the statue with a crane was underway by 7:30pm [^1]. A local newspaper reported that the audience for the removal consisted of "police officers, town council members and a crowd of around 50 onlookers"[^1]. “The statue will be secured off-site and preserved until further conversation with various community groups and the citizens of Farmville about its relocation and the appropriate disposition of the monument base,” officials stated in a press release[^1]. The statue consisted of a seven-foot-tall bronze soldier at the top of the 19-foot pedestal made of Virginia gray granite; only the statue portion was removed by truck, leaving the pedestal in place[^1]. 
 
@@ -19,15 +23,15 @@ Items memorializing the statue's racist history were added by unknown persons to
 
 Additional photos of the removal:
 
-![](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/static/img/confederate-soldier-farmville-va2.jpg), photo by Alexa Massey[^1]  
+{{< figure src="../../img/confederate-soldier-farmville-va2.jpg" title="photo by Alexa Massey">}}
 
-![](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/static/img/confederate-soldier-farmville-va3.jpg), photo by Sam Chase Photography[^1]  
+{{< figure src="../../img/confederate-soldier-farmville-va3.jpg" title="photo by Sam Chase Photography">}}
 
-![](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/static/img/confederate-soldier-farmville-va4.jpg), photo by Alexa Massey[^1]  
+{{< figure src="../../img/confederate-soldier-farmville-va4.jpg" title="photo by Alexa Massey">}}
 
-![](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/static/img/confederate-soldier-farmville-va5.jpg), photo by Alexa Massey[^1]  
+{{< figure src="../../img/confederate-soldier-farmville-va5.jpg" title="photo by Alexa Massey">}}  
 
-![](https://raw.githubusercontent.com/Gorcenski/whentheycamedown/trunk/static/img/confederate-soldier-farmville-va6.jpg), photo by Alexa Massey[^1]  
+<br>
 
 #### Notes
 
