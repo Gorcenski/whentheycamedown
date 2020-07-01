@@ -13,7 +13,7 @@ weight = 1
 +++
 La ciudad de Hamilton, Nueva Zelanda, retiró una estatua del oficial naval británico John Fane Charles Hamilton a pedido de los maoríes locales (una tribu indígena de Nueva Zelanda)
 
-<! - more ->
+<!--more-->
 
 Hamilton, acusado de matar a los maoríes en la década de 1860, [^ 1] es conmemorado tanto por el nombre de la ciudad como por esta estatua, que una empresa local regaló a la ciudad en 2013. [^ 2] La estatua fue retirada por la ciudad en La solicitud del pueblo Waikato-Tainui después de que el anciano maorí Taitimu Maipi dijo que tenía la intención de derribarlo personalmente.
 
