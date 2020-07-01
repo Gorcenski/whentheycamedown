@@ -16,7 +16,7 @@ Christopher Columbus was toppled in St. Paul, Minnesota.
 
 <!--more-->
 
-The statue of the colonizer[^1] responsible for Native genocide[^2] in St. Paul, Minnesota was torn down[^3] by members of the American Indian Movement during the Uprising of 2020.
+The St. Paul, Minnesota, U.S.A. statue of the colonizer[^1] responsible for the genocide[^2] of Indigenous people was torn down[^3] by members of the American Indian Movement during the Uprising of 2020.
 
 The statue, formerly in front of the State Capitol building, was easily upended.[^4] This followed failed attempts to remove the statue through more lawful channels, according to demonstrators.[^5]
 

@@ -16,7 +16,7 @@ The Catholic missionary and saint, Junípero Serra y Ferrer, was toppled by dire
 
 <!--more-->
 
-Junípero Serra was a Roman Catholic missionary canonized by Pope Francis.[^1] He was also a brutal colonizer who converted Native Americans.[^2] In recent years, his genocidal legacy overshadowed his canonization and his name was partially scrubbed from some, but not all, buildings and facilities at nearby Stanford University.[^3] The effort to remove references to Serra on Stanford University's campus has been ongoing for several years.[^4]
+Junípero Serra was a Roman Catholic missionary canonized by Pope Francis.[^1] He was also a brutal colonizer who converted Indigenous people to Catholicism.[^2] In recent years, his genocidal legacy overshadowed his canonization and his name was partially scrubbed from some, but not all, buildings and facilities at nearby Stanford University.[^3] The effort to remove references to Serra on Stanford University's campus has been ongoing for several years.[^4]
 
 Serra was one of three statues toppled in Golden Gate Park on Juneteeth 2020; the others were [Francis Scott Key](../key-sf/) and [Ulysses S. Grant](../grant-sf).
 
