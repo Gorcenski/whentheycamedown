@@ -19,6 +19,6 @@ Hamilton, acusado de matar a los maoríes en la década de 1860,[^1] es conmemor
 
 #### References
 
-[^1]: [John Hamilton: Nueva Zelanda derriba la estatua del colonialista británico y el homónimo de la ciudad] (https://www.independent.co.uk/news/world/australasia/john-hamilton-statue-new-zealand- colonialismo-gran bretaña-maorí-a9562296.html)
+[^1]: [John Hamilton: Nueva Zelanda derriba la estatua del colonialista británico y el homónimo de la ciudad](https://www.independent.co.uk/news/world/australasia/john-hamilton-statue-new-zealand-colonialismo-granbretaña-maorí-a9562296.html)
 
-[^2]: [Estatua del capitán naval británico John Hamilton derribado en Nueva Zelanda - video] (https://web.archive.org/web/20200614030933/https://www.theguardian.com/world/video/ 2020 / jun / 12 / estatua-británico-capitán-naval-juan-hamilton-tomado-abajo-nueva-zelanda-video)
+[^2]: [Estatua del capitán naval británico John Hamilton derribado en Nueva Zelanda - video](https://web.archive.org/web/20200614030933/https://www.theguardian.com/world/video/2020/jun/12/estatua-británico-capitán-naval-juan-hamilton-tomado-abajo-nueva-zelanda-video)

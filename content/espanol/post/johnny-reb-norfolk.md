@@ -24,8 +24,8 @@ La estatua fue construida originalmente por las Hijas Unidas de la Confederació
 
 #### References
 
-[^1]: [Estatua del soldado confederado eliminado del centro de Norfolk] (https://www.richmond.com/news/virginia/statue-of-confederate-soldier-removed-from-downtown-norfolk/article_bd24ac37-8e53- 56b8-ae47-f22407f9b0bf.html)
+[^1]: [Estatua del soldado confederado eliminado del centro de Norfolk](https://www.richmond.com/news/virginia/statue-of-confederate-soldier-removed-from-downtown-norfolk/article_bd24ac37-8e53-56b8-ae47-f22407f9b0bf.html)
 
-[^2]: [Wikipedia: Monumento Confederado de Norfolk] (https://en.wikipedia.org/wiki/Norfolk_Confederate_Monument)
+[^2]: [Wikipedia: Monumento Confederado de Norfolk](https://en.wikipedia.org/wiki/Norfolk_Confederate_Monument)
 
-[^3]: [La estatua confederada "Johnny Reb" de Norfolk pertenece a un museo, dice el descendiente del escultor] (https://www.pilotonline.com/government/local/article_ceda4930-e7bd-50c2-8d75-0b0c5bae9f36.html)
+[^3]: [La estatua confederada "Johnny Reb" de Norfolk pertenece a un museo, dice el descendiente del escultor](https://www.pilotonline.com/government/local/article_ceda4930-e7bd-50c2-8d75-0b0c5bae9f36.html)
