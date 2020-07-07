@@ -7,18 +7,20 @@ title = "Christopher Columbus Statue, St. Louis, MO, USA"
 photo_credits = "HABS/HAER" 
 photo_source_url = "https://commons.wikimedia.org/wiki/File:TowerGrovePark-StLouis-MO-ColumbusStatue-HABS-HAER-099046pu.jpg" 
 categories = [ "colonizers" ] 
-tags = ["municipal-action] 
+tags = ["municipal-action"]
 subjects = ["Christopher Columbus"] 
 weight = 1 
 +++
 
-The statue of Christopher Columbus in Tower Grove Park, St. Louis, Missouri was removed on 16 June 2020 by the action of the Park’s Board of Commissioners. [^1]  
-<!more>
+The statue of Christopher Columbus in Tower Grove Park, St. Louis, Missouri was removed on 16 June 2020 by the action of the Park’s Board of Commissioners.[^1]  
 
-The statue was originally dedicated in 1886 to "to celebrate the contributions of immigrants in this region." [^2]  The statue of the colonizer[^3] has been the subject of protest in 2016 [^4], 2017 [^5], and 2018 [^6].  
+<!--more-->
+
+The statue was originally dedicated in 1886 to "to celebrate the contributions of immigrants in this region."[^2]  The statue of the colonizer[^3] has been the subject of protest in 2016[^4], 2017,[^5] and 2018 [^6].  
 
 
-References
+#### References
+
 [^1]: [Tower Grove Park official Facebook post regarding the removal of the statue](https://www.facebook.com/towergroveparkstl/posts/10158257972916153)
 
 [^2]: [Local TV news outlet (KMOV) story of the removal](https://www.kmov.com/news/christopher-columbus-statue-removed-from-tower-grove-park/article_b7f1574a-ad16-11ea-b3f8-53efc3737f8e.html)
