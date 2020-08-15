@@ -11,6 +11,7 @@ photo_source_url = "(Article or social media source link)"
 categories = ["slavers"]
 <!--- Possible tags: municipal-action, renaming, direct-action, private-action -->
 tags = ["municipal-action"]
+subjects = ["Robert E. Lee"]
 weight = 1
 +++
 
