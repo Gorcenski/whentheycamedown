@@ -1,14 +1,44 @@
-on: [push]
-name: Publish Site
+# delivery.yml
+on:
+  push:
+    branches: [ main ]
+
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-      with:
-        submodules: true
-    - uses: gorcenski/github-action-hugo-deploy-to-firebase@trunk
-      with:
-        firebase-token: ${{ secrets.wtcd_firebase_deploy }}
-        alias: whentheycamedown
-        site-dir: website
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.68.3'
+          # extended: true
+
+      - name: Build
+        run: hugo
+
+      - uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Upload to blob storage
+        uses: azure/CLI@v1
+        with:
+            azcliversion: 2.0.72
+            inlineScript: |
+                az storage blob upload-batch --account-name wtcdsite -d '$web' -s public/.
+
+      - name: Purge CDN endpoint
+        uses: azure/CLI@v1
+        with:
+            azcliversion: 2.0.72
+            inlineScript: |
+                az cdn endpoint purge --content-paths  "/*" --profile-name "wtcd-cdn-pf" --name "wtcd-cdn" --resource-group "wtcd"
+
+      - name: logout
+        run: |
+            az logout

@@ -2,6 +2,7 @@ baseURL = "https://whentheycamedown.com"
 languageCode = "en"
 title = "whentheycamedown"
 theme = "hugo-nederburg-theme"
+defaultContentLanguage = "en"
 
 [taxonomies]
    tag = "tags"
@@ -42,6 +43,7 @@ weight = 2
 url = "/"
 name = "English"
 weight = 3
+
 # [[menu.main]]
 # url = "/tags"
 # name = "Tags"
