@@ -1,7 +1,7 @@
 # delivery.yml
 on:
   push:
-    branches: [ main ]
+    branches: [ trunk ]
 
 jobs:
   deploy:
