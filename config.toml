@@ -1,4 +1,4 @@
-baseURL = "https://whentheycamedown.com"
+baseURL = "https://www.whentheycamedown.com"
 languageCode = "en"
 title = "whentheycamedown"
 theme = "hugo-nederburg-theme"
