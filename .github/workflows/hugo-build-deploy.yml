@@ -20,6 +20,22 @@ jobs:
 
       - name: Build
         run: hugo
+  
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          name: exoscale
+          key: ${{ secrets.EXOSCALE_SSH_PRIVATE_KEY }}
+          known_hosts: "banana"
+          if_key_exists: replace
+      
+      - name: Adding Exoscale to Known Hosts
+        run: |
+          ssh-keyscan -H ${{ secrets.EXOSCALE_SSH_HOST }} > ~/.ssh/known_hosts
+
+      - name: Deploy to exoscale
+        run: |
+          rsync -avzr --checksum -e "ssh -i ~/.ssh/exoscale" ./public/ ubuntu@${{ secrets.EXOSCALE_SSH_HOST }}:/www/wtcd/
 
       - uses: azure/login@v1
         with:
